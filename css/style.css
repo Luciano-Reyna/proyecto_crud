@@ -1,0 +1,58 @@
+.main {
+		background-color: #fafafa;
+  		margin: 5% 5% 5rem 20%;
+  		margin-bottom: 0px;
+  		padding: 1rem;
+  		border: 2px solid #ccc;
+  		width: 60%;
+  		height: 500px;
+  		overflow: auto;
+  		padding-top: 40px;
+}
+.noti {
+	width: 100%;
+}
+.titulo{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+
+#botones {
+	background:red;
+	width: 60%;
+  	margin: 1% 0% 5rem 20%;
+  	margin-bottom: 0px;
+ 	padding: 10px 10px 10px 50%;
+ 	display: inline-block;
+}
+
+
+::-webkit-scrollbar {width: 8px;height: 2px;
+
+} 
+::-webkit-scrollbar-thumb {
+	background:rgba(108,117,125,0.2);
+	border: 0px none transparent; 
+	border-radius: 50px;
+} 
+::-webkit-scrollbar-thumb:hover { 
+	background:rgba(108,117,125,0.4);
+} 
+::-webkit-scrollbar-thumb:active {
+	background:rgba(108,117,125,0.4);
+}
+::-webkit-scrollbar-track {
+	background: transparent; 
+	border: 0px none transparent;
+	border-radius: 50px;
+}
+::-webkit-scrollbar-track:hover {
+	background: transparent;
+}
+::-webkit scrollbar-track:active {
+	background: transparent;
+}
+::-webkit-scrollbar-corner {
+	background: transparent;
+} 
