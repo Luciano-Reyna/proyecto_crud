@@ -3,6 +3,8 @@
 		$("#boton_agregar").click(function(){
 				$("#exampleModalLabel").html("Añadir Noticia");
 				agg=1;
+				$("#recipient-name").val("");
+               			$("#message-text").val("");
 		});
 		$(document).ready(function(){
 			$("#add").click(function () {
