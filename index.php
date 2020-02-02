@@ -43,7 +43,7 @@
 			      </div>
 			      <div class="modal-footer">
 				        <button type="button" class="btn btn-secondary" data-dismiss="modal" id="close" >Cerrar</button>
-				        <button type="button" class="btn btn-primary" id="add" >Agregar</button>
+				        <button type="button" class="btn btn-primary" id="add" >Guardar cambios</button>
 			      </div>
 			    </div>
 			  </div>
